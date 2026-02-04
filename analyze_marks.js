@@ -24,8 +24,8 @@ function analyzeMarks(marksObj){
     return {
         total,
         average,
-        Highest: highestSubject,
-        Lowest: lowestSubject
+        highestSubject,
+        lowestSubject
     }
 }
 
